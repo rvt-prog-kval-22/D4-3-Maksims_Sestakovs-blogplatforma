@@ -14,11 +14,11 @@ Izstrādāt blogplatformu , kura ir:<br>
 6.	Vietnes pielāgošanās spēja<br>
 Ir izstrādātā blogplatforma, kurā ir visās iepriekš minētas funkcijas.
 Emuārs ir tiešsaistes resurss ar regulāri atjauninātiem materiāliem. Blogā lietotājs dalās pārdomās, stāsta par savu dzīvi, publicē ziņas vai kādu informatīvu materiālu.<br> 
-Emuāram ir vairākas priekšrocības salīdzinājumā ar parasto dienasgrāmatu:<br>
+<h2>Emuāram ir vairākas priekšrocības salīdzinājumā ar parasto dienasgrāmatu:</h2><br>
 - iespēja papildināt no jebkuras vietas pasaulē un ierīce ar piekļuvi internetam;<br>
 - emuārā var glabāt ne tikai tekstu, bet arī fotogrāfijas;<br>
 - teksts var būt strukturētāks un krāsaināks.<br>
-Noslēguma kvalifikācijas darba mērķis bija izveidot ērtu blogplatformu tiešsaistes dienasgrāmatu uzturēšanai. Lai sasniegtu šo mērķi, ir jāatrisina šādi uzdevumi:
+<h2>Noslēguma kvalifikācijas darba mērķis bija izveidot ērtu blogplatformu tiešsaistes dienasgrāmatu uzturēšanai. Lai sasniegtu šo mērķi, ir jāatrisina šādi uzdevumi:</h2>
 - mājas lapas dizaina izveide;<br>
 - izveidot personīgo administratora kontu ar iespēju skatīt un rediģēt visus rakstus, kategorijas un tagus;<br>
 - iespēja meklēt pēc rakstu nosaukumiem, rakstu kategorijām;<br>
@@ -26,7 +26,7 @@ Noslēguma kvalifikācijas darba mērķis bija izveidot ērtu blogplatformu tie�
 <br>
 Atslēgas vārdi: kvalifikācijas darbs, blogplatforma, tīmekļa izstrādāšana
 <br>
-Paveiktā darba rezultātā tika izpildīti šādi uzdevumi:<br>
+<h1>Paveiktā darba rezultātā tika izpildīti šādi uzdevumi:</h1><br>
 - pārskatītas un pielietotas modernās tehnoloģijas vietņu izveidei;<br>
 - Mācījusies mūsdienīga programmatūra, ko izmanto mājaslapu izveidei;<br>
 - apskatītas dažādas metodes un veidi, kā tīmekļa lapās ievietot dažādu informāciju tīmekļa lapās;<br>
