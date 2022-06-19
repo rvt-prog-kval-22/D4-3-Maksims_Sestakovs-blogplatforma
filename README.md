@@ -5,7 +5,7 @@ Darba veids: Kvalifikācijas darbs<br>
 Macību programma: Progmešanas tehnikis<br>
 Darba mērķis: Izstrādāt kvalifikācijas darbu<br>
 <h1>Darba uzdevumi:</h1>
-Izstrādāt blogplatformu , kura ir:
+Izstrādāt blogplatformu , kura ir:<br>
 1.	autorizācija un reģistrācijā <br>
 2.	var rakstīt savus blogus<br>
 3.	redzēt citu cilvēku blogus<br>
